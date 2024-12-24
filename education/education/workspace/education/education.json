@@ -670,10 +670,10 @@
     "is_query_report": 0,
     "label": "Educationist AI",
     "link_count": 0,
-    "link_to": "https://educationist.ai",
+    "url": "https://educationist.ai",
     "link_type": "URL",
     "onboard": 0,
-    "type": "Link"
+    "type": "URL"
   },
   {
    "hidden": 0,
